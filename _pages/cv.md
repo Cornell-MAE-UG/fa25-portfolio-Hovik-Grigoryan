@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Hovik Grigoryan - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,63 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [hg483@cornell.edu](mailto:hg483@cornell.edu) | | | **Phone:** +1 607 262 5268
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Mechanical engineering student. Passionate about aerospace engineering and astronomy, eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **United World Colleges (UWC) Dilijan**  
+  *International Baccalaureate Diploma*  
+  Graduation: May, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, Git, Github, Arduino
+- **Programming:** Python, MATLAB, C++, HTML, CSS
+- **Languages** English(fluent), Armenian(native), Russian(fluent), German(intermediate)
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **N2 Pulse Laser**:  
+  *Designed and built an N2 pulse laser utilizing a Thyratron and a 555-timer as part of the Lasers and Photonics course*  
+  - Developed a pulse generator, ensuring precise timing functionality  
+  - Selected and integrated components including diodes, transformers, and resistors to optimize laser performance 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Robot For an International Robotics Competition**:  
+  *Contributed to Team Armenia in FIRST Global Challenge*  
+  - Designed and constructed the driving system of the robot, served as the primary driver of the robot
+  - Developed control systems using Arduino technologyto enhance robot performance
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+#### Research Experience
+- **SIOS Lab - Cornell University**  
+  [May, 2025] - Present
+  - Designed and implemented a C++ and Python algorithm to efficiently estimate delta magnitude (dMag) values for space objects given varying integration times, using advanced mathematical modeling
+  - Integrated work with Git/GitHub for version control and collaborative development in a small research team
+- **Katz Lab - Cornell University**  
+  [February, 2025] - [May, 2025]
+  - Researched and compared accelerometer solutions from manufacturers including Brüel & Kjær, Kistler, Wilcoxon, and Omega Engineering
+  - Collected and analyzed performance specifications across wide frequency range, balancing sensitivity, bandwidth, and cost-effectiveness.
+  - Coordinated with engineers from multiple vendors and recommended accelerometers for the lab’s Operational and budgetary requirements
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Official Ambassador of Samsung Innovation Campus
+- Organization of a Math Summer Camp
+- Vice-President of the Armenian Student Organization (ASO)
 
 ---
 

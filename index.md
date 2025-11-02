@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Hovik Grigoryan
 ---
 
 ## About Me
@@ -9,8 +9,6 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is Hovik Grigoryan, and I am a mechanical engineering student at Cornell University. I am a firm believer that science and engineering should be centered around humans and humanity. Whether that involves creating pieces of technology that improve the quality of our lives or even save lives, or exploring the world around us , mechanical engineering , due to its broadness and universality, is the field that I believe can achieve this best. Currently, my greatest interest and passion lie within the fields of astronomy and aerospace engineering. I believe that the grand mission of space exploration stems from our fundamental human nature, and I am excited to contribute to this field. I am also greatly interested in medicine ; since both of my parents are doctors, I was raised with the idea that helping others is the greatest virtue. I would love to apply my knowledge and experience in engineering to create technologies that improve the lives of people all around the world.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
