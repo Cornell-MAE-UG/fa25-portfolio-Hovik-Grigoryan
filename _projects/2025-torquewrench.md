@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench
 description: Class project 
 technologies: [Fusion 360, ANSYS Workbench]
-image: /assets/images/render_2.PNG
+image: /assets/images/render_2.png
 ---
 
 
