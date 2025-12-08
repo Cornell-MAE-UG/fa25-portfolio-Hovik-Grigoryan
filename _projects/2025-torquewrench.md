@@ -21,10 +21,10 @@ After performing mathematical analysis using the beam theory, which turns out to
 
 The CAD model details with the dimensions:
 
-<img src="{{ 'assets/images/cross-section.png' | relative_url }}" alt="Cross-Section" width="275">
-<img src="{{ 'assets/images/wrench_head.png' | relative_url }}" alt="Render 1" width="275">
+<img src="{{ 'assets/images/cross-section.PNG' | relative_url }}" alt="Cross-Section" width="275">
+<img src="{{ 'assets/images/wrench_head.PNG' | relative_url }}" alt="Render 1" width="275">
 
-<img src="{{ 'assets/images/wrench_body.png' | relative_url }}" alt="Render 1" width="552">
+<img src="{{ 'assets/images/wrench_body.PNG' | relative_url }}" alt="Render 1" width="552">
 
 The material I picked is AISI4340 low-allow normalized steel. Particularly, this steel is has a strong resistence against fracture failure. 
 Its Young's Modulus is 29.7e6 psi, and its fracture toughness is 51900 psi per square inch. Those numbers help us yield appropirate safety factors against yield and fracture. 
@@ -34,7 +34,7 @@ Therefore, AISI4340 steel is very strong and durable, making it a great candidat
 A 600 lbf-in torque applied to the wrench base is equavalent to 600/18 = 33.3 lbs force applied at the end of the wrench handle. 
 Therefore, when performing FEM in ANSYS Workbench, we add a 33.3 lbs force applied to the end of the handle, in the x direction. We also apply a boundary condition that the head of the wrench is not moving. 
 
-<img src="{{ 'assets/images/force.png' | relative_url }}" alt="Render 1" width="552">
+<img src="{{ 'assets/images/force.PNG' | relative_url }}" alt="Render 1" width="552">
 
 After meshing and solving, we can evaluate the strains and the stresses at any locations of the wrench. 
 
@@ -44,7 +44,7 @@ After meshing and solving, we can evaluate the strains and the stresses at any l
 <img src="{{ 'assets/images/maximum_principal_stress.png' | relative_url }}" alt="Render 1" width="552">
 
 The strain gauge location is shown in the following diagram
-<img src="{{ 'assets/images/diagram.png' | relative_url }}" alt="Render 1" width="552">
+<img src="{{ 'assets/images/diagram.PNG' | relative_url }}" alt="Render 1" width="552">
 
 In our case b = h = 0.51'', c = 1'', L = 18''
 
