@@ -7,7 +7,7 @@ image: /assets/images/render_2.png
 ---
 
 
-<img src="{{ 'assets/images/render_2.png' | relative_url }}" alt="Render 1" width="275"> As a final project for my mechanics of engineering materials class, I have designed and tested a torque wrench, using Fusion 360 to make the CAD model, and ANSYS Workbench to perform FEM analysis. The wrench has to comply with a set a requirements
+<img src="{{ 'assets/images/render_2.png' | relative_url }}" alt="Render 1" width="300"> As a final project for my mechanics of engineering materials class, I have designed and tested a torque wrench, using Fusion 360 to make the CAD model, and ANSYS Workbench to perform FEM analysis. The wrench has to comply with a set a requirements
 - Sensitivity of a strain gauge of at least 1.0 mv/V output at the rated toruq of 600 in-lbf.
 - safety factor of X0 = 4 for yield failurure
 - safety factor of Xk = 2 for crack growth from an assumed crack depth 0.04 inches
