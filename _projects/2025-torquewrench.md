@@ -39,8 +39,7 @@ Therefore, when performing FEM in ANSYS Workbench, we add a 33.3 lbs force appli
 After meshing and solving, we can evaluate the strains and the stresses at any locations of the wrench. 
 
 <img src="{{ 'assets/images/Strain_Gauge.png' | relative_url }}" alt="Strain Gauge" width="552">
-
-
+<img src="{{ 'assets/images/max_stress_2.png' | relative_url }}" alt="Max Stress" width="552">
 <img src="{{ 'assets/images/maximum_principal_stress.png' | relative_url }}" alt="diagram" width="552">
 
 The strain gauge location is shown in the following diagram
