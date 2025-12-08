@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Coffee Machine Dissection
+title: Coffee Machine
 description: Class project 
 technologies: [Fluid Mechanics, Power Tools]
 image: /assets/images/IMG_3288.png
