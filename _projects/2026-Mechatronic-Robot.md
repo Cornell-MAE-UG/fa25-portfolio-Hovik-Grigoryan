@@ -1,6 +1,7 @@
 ---
 layout: project
-title: MAE3780 - Final Project - Robot
+title: Mechatronics Final Project - Autonomous Robot
+order: 1
 description: Robot 
 technologies: [C, Fusion 360, Arduino, 3d printing]
 image: /assets/images/3780robot.JPG

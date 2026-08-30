@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Engineering Materials - Torque Wrench
+order: 2
 description: Class project 
 technologies: [Fusion 360, ANSYS Workbench]
 image: /assets/images/render_2.png

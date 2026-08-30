@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Fluid Mechanics - Coffee Machine
+order: 5
 description: Class project 
 technologies: [Fluid Mechanics, Power Tools]
 image: /assets/images/IMG_3288.png
