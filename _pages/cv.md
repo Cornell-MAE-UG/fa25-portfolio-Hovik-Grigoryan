@@ -29,35 +29,62 @@ Mechanical engineering student. Passionate about aerospace engineering and astro
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, Git, Github, Arduino
-- **Programming:** Python, MATLAB, C++, HTML, CSS
+- **Programming/Software:** Fusion 360, Ansys Workbench, LabVIEW, MATLAB, Python, VS Code (Remote-SSH), Git, Linux
+- **Hardware:** Wiring, soldering, 3D printing, Arduino / microcontrollers, PID controller design, sensor integration, oscilloscopes
 - **Languages** English(fluent), Armenian(native), Russian(fluent), German(intermediate)
 
 ---
 
-#### Projects
-- **N2 Pulse Laser**:  
-  *Designed and built an N2 pulse laser utilizing a Thyratron and a 555-timer as part of the Lasers and Photonics course*  
-  - Developed a pulse generator, ensuring precise timing functionality  
-  - Selected and integrated components including diodes, transformers, and resistors to optimize laser performance 
+#### Selected Projects
+- **Autonomous Robot**:  
+  - Designed and built an autonomous robot (team of 3), used color sensor, QTI sensors, Arduino microcontroller, motors 
+  - Wired the robot, used h-bridges, resistors; contributed to the code (C) and strategy design, designed and 3D printed parts  
+  - Robot successfully was able to collect and hold 15 small cubes within 1 minute, consistently stayed within the playfield
 
-- **Robot For an International Robotics Competition**:  
-  *Contributed to Team Armenia in FIRST Global Challenge*  
-  - Designed and constructed the driving system of the robot, served as the primary driver of the robot
-  - Developed control systems using Arduino technologyto enhance robot performance
+- **Coffee Heater**:  
+  - Designed and constructed a coffee heater for System Dynamics class, with an implemented PID controller
+  - The coffee heater achieved a rise time of 144 seconds, settling time of 487.5 seconds, and a max control effort of 350 oC
+  - In the team, I was responsible for creating the control effort and temperature plots for the design, using MATLAB
+
+- **N2 Pulse Laser**:  
+  - Designed and built an N2 pulse laser utilizing a Thyratron and a 555-timer as part of the Lasers and Photonics course 
+  - Developed a pulse generator. The laser produced a 337nm wavelength light, with output laser peak power of 14.5 kW  
+  - Selected and integrated components including diodes, transformers, and resistors to optimize laser performance
+
+- **Competition Robot**:  
+  - Led Team Armenia in an international FIRST Global Challenge robotics competition, consisting of 5 members
+  - Designed and constructed the driving system, the climbing mechanism of the robot (achieved 2 meter elevation)
+  - Developed control systems using Arduino to enhance robot performance in speed and precision when collecting objects
 
 ---
 
 #### Research Experience
+- **Aerospace Adversary Lab - Cornell University**  
+  [January, 2026] - Present
+  *Fiber Optic Laser Position Sensing System (ongoing)*
+  - Codesigned a fiber sensor to localize laser incidence on a surface using a 4×4 fiber array and camera based detection
+  - CAD-modeled and 3D-printed all mechanical parts: detection surface, fiber grid mount, camera housing, enclosures
+  - Developed a MATLAB script; interpolation based position estimation; UI with the CAD model for real-time tracking
+  *Multi-Agent Swarm Coordination via Neural Networks*
+  - Contributing to neural network models for multi-drone cooperation, via VS code SSH remote developement
+  - Refined multiple model architectures and hyperparameter configurations, reducing average belief model error by 70%
+  - Achieved consistent task success across trials, demonstrated robust coordination behavior, performed data collection
+  *Autonomous Drone Navigation*
+  - Assembled, 3D-printed, and repaired drone hardware, including a rebuild after a crash test, rewired drones from scratch
+  - Designed and calibrated a localization system using Marvelmind ultrasonic beacons, achieving 2cm position accuracy
+  - Integrated positioning data with flight control software (QGroundControl), achieved autonomous takeoff and landing
+
 - **SIOS Lab - Cornell University**  
   [May, 2025] - Present
-  - Designed and implemented a C++ and Python algorithm to efficiently estimate delta magnitude (dMag) values for space objects given varying integration times, using advanced mathematical modeling
-  - Integrated work with Git/GitHub for version control and collaborative development in a small research team
+  - Contributed to NASA's Nancy Grace Roman Space Telescope project, supporting exoplanet observation and detection
+  - Developed Python algorithms estimating exoplanet detectability (Δmag) under integration-time constraints, made tutorials
+  - Built 10+ scripts and mission-level analysis tools for exoplanet yield estimation, survey design, and observation planning
+  - Developed scripts comparing SIOS Lab approach to flux and integration time calculations with the NASA method
 - **Katz Lab - Cornell University**  
-  [February, 2025] - [May, 2025]
-  - Researched and compared accelerometer solutions from manufacturers including Brüel & Kjær, Kistler, Wilcoxon, and Omega Engineering
-  - Collected and analyzed performance specifications across wide frequency range, balancing sensitivity, bandwidth, and cost-effectiveness.
-  - Coordinated with engineers from multiple vendors and recommended accelerometers for the lab’s Operational and budgetary requirements
+  [January, 2025] - [May, 2025]
+  - Supported development of a quantum computer by identifying high-precision accelerometers for the assembly platform
+  - Researched and compared 15 accelerometers solutions from 6 manufacturers including Brüel & Kjær, Kistler, Wilcoxon
+  - Coordinated with engineers from vendors and recommended accelerometers fit for the lab’s operation and budget
 
 ---
 
