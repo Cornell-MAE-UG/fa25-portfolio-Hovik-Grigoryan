@@ -61,18 +61,18 @@ Mechanical engineering student. Passionate about aerospace engineering and astro
 #### Research Experience
 - **Aerospace Adversary Lab - Cornell University**  
   [January, 2026] - Present
-  *Fiber Optic Laser Position Sensing System (ongoing)*
-  - Codesigned a fiber sensor to localize laser incidence on a surface using a 4×4 fiber array and camera based detection
-  - CAD-modeled and 3D-printed all mechanical parts: detection surface, fiber grid mount, camera housing, enclosures
-  - Developed a MATLAB script; interpolation based position estimation; UI with the CAD model for real-time tracking
-  *Multi-Agent Swarm Coordination via Neural Networks*
-  - Contributing to neural network models for multi-drone cooperation, via VS code SSH remote developement
-  - Refined multiple model architectures and hyperparameter configurations, reducing average belief model error by 70%
-  - Achieved consistent task success across trials, demonstrated robust coordination behavior, performed data collection
-  *Autonomous Drone Navigation*
-  - Assembled, 3D-printed, and repaired drone hardware, including a rebuild after a crash test, rewired drones from scratch
-  - Designed and calibrated a localization system using Marvelmind ultrasonic beacons, achieving 2cm position accuracy
-  - Integrated positioning data with flight control software (QGroundControl), achieved autonomous takeoff and landing
+  - *Fiber Optic Laser Position Sensing System (ongoing)*
+    - Codesigned a fiber sensor to localize laser incidence on a surface using a 4×4 fiber array and camera based detection
+    - CAD-modeled and 3D-printed all mechanical parts: detection surface, fiber grid mount, camera housing, enclosures
+    - Developed a MATLAB script; interpolation based position estimation; UI with the CAD model for real-time tracking
+  - *Multi-Agent Swarm Coordination via Neural Networks*
+    - Contributing to neural network models for multi-drone cooperation, via VS code SSH remote developement
+    - Refined multiple model architectures and hyperparameter configurations, reducing average belief model error by 70%
+    - Achieved consistent task success across trials, demonstrated robust coordination behavior, performed data collection
+  - *Autonomous Drone Navigation*
+    - Assembled, 3D-printed, and repaired drone hardware, including a rebuild after a crash test, rewired drones from scratch
+    - Designed and calibrated a localization system using Marvelmind ultrasonic beacons, achieving 2cm position accuracy
+    - Integrated positioning data with flight control software (QGroundControl), achieved autonomous takeoff and landing
 
 - **SIOS Lab - Cornell University**  
   [May, 2025] - Present
