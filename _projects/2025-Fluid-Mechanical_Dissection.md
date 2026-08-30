@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanics - Coffee Machine
+title: Fluid Mechanics - Coffee Machine Reverse Engineering
 order: 5
 description: Class project 
 technologies: [Fluid Mechanics, Power Tools]
