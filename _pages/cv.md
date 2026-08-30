@@ -88,10 +88,8 @@ Mechanical engineering student. Passionate about aerospace engineering and astro
 
 ---
 
-#### Extracurricular Activities
-- Official Ambassador of Samsung Innovation Campus
-- Organization of a Math Summer Camp
-- Vice-President of the Armenian Student Organization (ASO)
+#### Campus Engagement
+- Cornell Makers Lab (member), Armenian Student Organization (member, VP), Cornell Fashion Collectives (runway model SP26), Intramural Soccer (team captain, member), Cornell Philosophy Club (member)
 
 ---
 
