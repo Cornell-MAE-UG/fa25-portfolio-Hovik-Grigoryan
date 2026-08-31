@@ -97,8 +97,8 @@ Mechanical engineering student. Passionate about aerospace engineering and astro
 - Dmitry Savransky, Rifah Tasnim , Saanika Choudhary, **Hovik Grigoryan**, Justin Hom, Bijan Nemati, Neil Zimmerman, Ramya Anche , Nicholas Phillips, Louie Donesa, Parth Mittal, Amira Razack, Savaas Iqbal, Javier Majumdar, Schuyler G. Wolff, and Vanessa P. Bailey, “The Roman Coronagraph Database and Tools”, Proc. SPIE 14145, Space Telescopes and Instrumentation 2026: Optical, Infrared, and Millimeter Wave, 141454S (21 Aug 2026); [https://doi.org/10.1117/12.3103065](https://doi.org/10.1117/12.3103065)
 
 - Dmitry Savransky, Rifah Tasnim , Saanika Choudhary, **Hovik Grigoryan**, Justin Hom, Bijan Nemati, Neil Zimmerman, Ramya Anche , Nicholas Phillips, Louie Donesa, Parth Mittal, Amira Razack, Savaas Iqbal, Javier Majumdar, Schuyler G. Wolff, and Vanessa P. Bailey, “The Roman Coronagraph Database and Tools,” (poster), SPIE Astronomical Telescopes + Instrumentation, Copenhagen, Denmark, 2026.
+[Download the poster]({{ "/assets/ViewPoster.pdf" | relative_url }})
 
-[Download the poster]({{ "/assets/ViewPoster.pdf" | relative_url }}) in PDF format.
 ---
 
 #### References
