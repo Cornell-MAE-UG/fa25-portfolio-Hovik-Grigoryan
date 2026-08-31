@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fluid Mechanics - Coffee Machine Reverse Engineering
-order: 5
+order: 7
 description: Class project 
 technologies: [Fluid Mechanics, Power Tools]
 image: /assets/images/IMG_3288.png

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: System Dynamics - Coffee Heater 
-order: 6
+order: 4
 description: PID control system that heats up coffee
 technologies: [MATLAB, System Dynamics]
 image: /assets/images/coffee-heater-plate.jpg

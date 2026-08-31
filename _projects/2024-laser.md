@@ -1,7 +1,7 @@
 ---
 layout: project
 title: N2 Pulse Laser
-order: 3
+order: 5
 description: Class project 
 technologies: [Circuits, Soldering]
 image: /assets/images/laser.PNG

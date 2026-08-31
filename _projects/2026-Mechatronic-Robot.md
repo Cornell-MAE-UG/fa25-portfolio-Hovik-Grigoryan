@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Mechatronics Final Project - Autonomous Robot
-order: 1
-description: Robot 
+order: 2
+description: Autonomous Robot for a class project 
 technologies: [C, Fusion 360, Arduino, 3d printing]
 image: /assets/images/3780robot.JPG
 ---

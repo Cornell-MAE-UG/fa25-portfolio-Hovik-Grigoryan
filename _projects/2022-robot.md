@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Robot 
-order: 4
+order: 6
 description: Robot Made for FIRST International Robotics Competition
 technologies: [Arduino, Robotics]
 image: /assets/images/robot.jpg
